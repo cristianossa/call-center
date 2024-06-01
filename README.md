@@ -3,7 +3,7 @@
 Este repositorio contiene un archivo de Power BI que muestra un análisis detallado de un centro de llamadas diario. El tablero ofrece información sobre diferentes métricas relacionadas con las operaciones del centro de llamadas, incluyendo el total de llamadas recibidas, el promedio de llamadas por hora, las llamadas manejadas por cada agente y el porcentaje de llamadas categorizadas por disposición.
 
 <p align="center">
- <img width="100%" height="auto" src="https://github.com/cristianossa/call-center-statistics/blob/main/assets/capture.png" alt="Capture" />
+ <img width="100%" height="auto" src="https://github.com/cristianossa/call-center-statistics/blob/main/capture.png" alt="Capture" />
 </p>
 
 #### Resumen:
